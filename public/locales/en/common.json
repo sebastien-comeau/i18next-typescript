@@ -1,0 +1,71 @@
+{
+  "application-name": "Retirement Hub",
+  "banner": {
+    "alert": "Test site",
+    "description": "You cannot apply for services or benefits through this test site. Parts of this site may not work and will change."
+  },
+  "checklist": "Checklist",
+  "date-select-field": {
+    "day": "Day",
+    "month": "Month",
+    "year": "Year"
+  },
+  "footer": {
+    "canada-ca-alt-text": "Symbol of the Government of Canada",
+    "contact-us-text": "Contact us",
+    "explore-retirement": {
+      "going-from-work-to-retirement": "Going from work to retirement",
+      "main-sources-of-retirement-income": "Main sources of retirement income",
+      "planning-to-save-for-retirement": "Planning to save for retirement",
+      "rules-of-thumb-for-public-pensions": "Rules of thumb for your public pensions",
+      "when-to-start-public-pensions": "Deciding when to start your public pensions"
+    },
+    "explore-retirement-text": "Explore retirement",
+    "header": "Retirement Hub",
+    "links": {
+      "privacy": "Privacy",
+      "privacy-url": "https://www.canada.ca/en/transparency/privacy.html",
+      "terms-and-condition": "Terms and conditions",
+      "terms-and-condition-url": "https://www.canada.ca/en/transparency/terms.html"
+    },
+    "menu": {
+      "checklist": "Checklist",
+      "cpp": "CPP: How to apply",
+      "cpp-url": "https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-benefit/apply.html",
+      "explore-retirement": "Explore retirement",
+      "find-service-canada-office": "Find a Service Canada office",
+      "find-service-canada-office-url": "https://www.servicecanada.gc.ca/tbsc-fsco/sc-hme.jsp?lang=eng",
+      "general-information-by-telephone": "General information by telephone",
+      "general-information-by-telephone-url": "https://www.canada.ca/en/contact/contact-1-800-o-canada.html",
+      "msca": "My Service Canada Account",
+      "msca-url": "https://www.canada.ca/en/employment-social-development/services/my-account.html",
+      "oas": "OAS: How to apply",
+      "oas-url": "https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/apply.html"
+    },
+    "menu-text": "Menu",
+    "nav-header": "Government of Canada Corporate",
+    "retirement-stories": {
+      "bonnie": "Bonnie delays to reduce the savings she needs",
+      "fred": "Fred decides when to start his public pensions",
+      "keith": "Keith collects his public pensions while working"
+    },
+    "retirement-stories-text": "Retirement stories"
+  },
+  "found-errors_one": "The following error was found in the form:",
+  "found-errors_other": "The following {{count}} errors were found in the form:",
+  "goc-site": "Canada.ca",
+  "header": {
+    "goc-link": "https://www.canada.ca/en.html",
+    "skip-to-main": "Skip to main content"
+  },
+  "opens-in-new-tab": "(opens in a new tab)",
+  "required": "(required)",
+  "table-of-contents": {
+    "aria-label": "Table of contents",
+    "dialog": {
+      "trigger-aria-label": "Open table of contents"
+    },
+    "header": "Contents",
+    "top": "Back to Top"
+  }
+}

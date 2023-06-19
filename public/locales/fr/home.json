@@ -1,0 +1,91 @@
+{
+  "banner": {
+    "text": "Il n'est jamais trop tôt ni trop tard pour s'informer sur les options de retraite qui s'offrent à vous et planifier votre avenir. Renseignez-vous sur les pensions publiques, le meilleur moment pour commencer à les recevoir et les conseils pour maximiser votre revenu de retraite.",
+    "title": "Informez-vous sur votre retraite et planifiez en conséquence"
+  },
+  "header": "Informez-vous sur votre retraite et planifiez en conséquence",
+  "meta": {
+    "description": "Il n'est jamais trop tôt ni trop tard pour s'informer sur les options de retraite qui s'offrent à vous et planifier votre avenir. Renseignez-vous sur les pensions publiques, le meilleur moment pour commencer à les recevoir et les conseils pour maximiser votre revenu de retraite."
+  },
+  "tabs": {
+    "apply": {
+      "description": {
+        "links": {
+          "how-to-apply": {
+            "title": "Régime de pensions du Canada\u00a0: Comment présenter une demande",
+            "url": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/prestation-rpc/demande.html"
+          },
+          "oas-apply": {
+            "title": "Sécurité de la vieillesse\u00a0: Comment présenter une demande",
+            "url": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/securite-vieillesse/demande.html"
+          }
+        },
+        "text": "Pour présenter une demande en ligne, vous pouvez ouvrir une session ou vous inscrire à Mon dossier Service Canada (MDSC). Pour présenter une demande en personne ou par la poste, vous pouvez remplir une demande papier."
+      },
+      "heading": "Vous êtes prêt à présenter une demande pour vos pensions publiques? Commencez maintenant",
+      "title": "Présenter une demande"
+    },
+    "learn": {
+      "button-text": "Renseignez-vous sur la retraite",
+      "description": {
+        "options-and-tips": "Renseignez-vous sur vos options de revenu à la retraite et des conseils pour les pensions de la SV/RPC.",
+        "stories": "Lisez les histoires de retraités et leur choix de pension publique."
+      },
+      "heading": "Tirez le maximum de vos régimes de pension au Canada",
+      "links": {
+        "case-study-bonnie": {
+          "description": "Bonnie reporte le versement de ses pension publiques et aura besoin de moins d'épargnes pour prendre sa retraite.",
+          "title": "Bonnie reporte sa pension pour réduire les épargnes dont elle a besoin"
+        },
+        "rules-of-thumb": {
+          "description": "Jetez un coup d'œil sur ces conseils pour vous aider a prendre la décision de quand commencer à recevoir vos pensions. Faite le choix adapter à votre situation.",
+          "title": "Règles générales concernant les pensions publiques"
+        },
+        "when-to-start": {
+          "description": "La souplesse des pensions publiques vous offre des options de retraite. Découvrez quoi choisir et les éléments à considérer.",
+          "title": "Décider quand recevoir sa pension publique"
+        }
+      },
+      "linksTitle": "Principaux liens d'apprentissage",
+      "title": "Apprendre"
+    },
+    "manage": {
+      "button": {
+        "text": "Ouvrir une session dans MDSC",
+        "url": "https://www.canada.ca/fr/emploi-developpement-social/services/mon-dossier.html"
+      },
+      "description": {
+        "list": {
+          "check-status-payment-dates-and-amounts": "Vérifier l'état, les dates de versement et les montants de vos pensions publiques;",
+          "create-and-submit-application": "Créer et présenter une ou plusieurs demandes de prestations du Régime de pensions du Canada et de la Sécurité de la vieillesse;",
+          "update-mailing-address-and-banking-information": "Mettre à jour votre adresse postale et vos renseignements bancaires."
+        },
+        "text": "MDSC vous permet de faire beaucoup de choses, notamment\u00a0:"
+      },
+      "heading": "Prenez le contrôle de vos pensions publiques grâce à Mon dossier Service Canada (MDSC)",
+      "title": "Gérer"
+    },
+    "more": "Plus",
+    "plan": {
+      "button": {
+        "text": "Répondez au questionnaire"
+      },
+      "description": "Recevez une liste de contrôle personnalisée pour vous guider tout au long de votre retraite.",
+      "heading": "Vous ne savez pas par où commencer? Répondez à notre questionnaire!",
+      "links": {
+        "oas-eligibility-estimator": {
+          "description": "Découvrez les montants que vous pourriez recevoir dans le cadre du programme de la Sécurité de la vieillesse et ses prestations.",
+          "title": "Estimateur de prestations de la Sécurité de la vieillesse",
+          "url": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/securite-vieillesse/paiements.html"
+        },
+        "retirement-income-calculator": {
+          "description": "La Calculatrice du revenu de retraite canadienne vous fournira des informations sur le revenu de retraite. Cela comprend la pension de la Sécurité de la vieillesse (SV) et les prestations de retraite du Régime de pensions du Canada (RPC).",
+          "title": "La Calculatrice du revenu de retraite canadienne (CRRC)",
+          "url": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/calculatrice-revenu-retraite.html"
+        }
+      },
+      "linksTitle": "Autres outils",
+      "title": "Planifier"
+    }
+  }
+}

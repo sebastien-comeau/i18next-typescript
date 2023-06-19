@@ -1,0 +1,91 @@
+{
+  "banner": {
+    "text": "It's never too early or too late to learn about your retirement options and plan for your future. Find out about public pensions, when to collect them and tips to consider for your retirement income.",
+    "title": "Learn and plan for your retirement"
+  },
+  "header": "Learn and plan for your retirement",
+  "meta": {
+    "description": "It's never too early or too late to learn about your retirement options and plan for your future. Find out about public pensions, when to take them and tips to consider for your retirement income."
+  },
+  "tabs": {
+    "apply": {
+      "description": {
+        "links": {
+          "how-to-apply": {
+            "title": "Canada Pension Plan: How to apply",
+            "url": "https://www.canada.ca/en/services/benefits/publicpensions/cpp/cpp-benefit/apply.html"
+          },
+          "oas-apply": {
+            "title": "Old Age Security: How to apply",
+            "url": "https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/apply.html"
+          }
+        },
+        "text": "To apply online you can sign in or register for a My Service Canada Account (MSCA). To apply in-person or by mail, you can complete a paper application."
+      },
+      "heading": "Ready to apply for your public pensions? Get started now",
+      "title": "Apply"
+    },
+    "learn": {
+      "button-text": "Explore retirement",
+      "description": {
+        "options-and-tips": "Learn about your retirement income options, and tips for your OAS/CPP pension choices.",
+        "stories": "Read the stories of retirees and their public pension decisions."
+      },
+      "heading": "Get the most out of your Canadian public pensions",
+      "links": {
+        "case-study-bonnie": {
+          "description": "Bonnie will need less savings to retire comfortably if she delays her OAS pension and her CPP retirement pension.",
+          "title": "Bonnie delays to reduce the savings she needs"
+        },
+        "rules-of-thumb": {
+          "description": "Check out these tips to help you decide when to start your public pensions. Choose what is right for you.",
+          "title": "Rules of thumb for your public pensions"
+        },
+        "when-to-start": {
+          "description": "Flexible public pensions offer choices for retirement. Learn how to choose and what to consider.",
+          "title": "Deciding when to start your public pensions"
+        }
+      },
+      "linksTitle": "Top learning links",
+      "title": "Learn"
+    },
+    "manage": {
+      "button": {
+        "text": "Sign into MSCA",
+        "url": "https://www.canada.ca/en/employment-social-development/services/my-account.html"
+      },
+      "description": {
+        "list": {
+          "check-status-payment-dates-and-amounts": "Check the status, payment dates and amounts for your public pensions.",
+          "create-and-submit-application": "Create and submit your Canada Pension Plan and Old Age Security application(s).",
+          "update-mailing-address-and-banking-information": "Update your mailing address and banking information."
+        },
+        "text": "You can do a lot with your MSCA, including:"
+      },
+      "heading": "Take control of your public pensions with the My Service Canada Account (MSCA)",
+      "title": "Manage"
+    },
+    "more": "More",
+    "plan": {
+      "button": {
+        "text": "Take the quiz"
+      },
+      "description": "Receive a personalized checklist to guide you through retirement.",
+      "heading": "Not sure where to start? Take our quiz!",
+      "links": {
+        "oas-eligibility-estimator": {
+          "description": "Find out how much money you may get from the Old Age Security program and its benefits.",
+          "title": "Old Age Security benefits estimator",
+          "url": "https://www.canada.ca/en/services/benefits/publicpensions/cpp/old-age-security/payments.html"
+        },
+        "retirement-income-calculator": {
+          "description": "The Canadian Retirement Income Calculator will provide you with retirement income information. This includes the Old Age Security (OAS) pension and Canada Pension Plan (CPP) retirement benefits.",
+          "title": "Canadian Retirement Income Calculator",
+          "url": "https://www.canada.ca/en/services/benefits/publicpensions/cpp/retirement-income-calculator.html"
+        }
+      },
+      "linksTitle": "Other Tools",
+      "title": "Plan"
+    }
+  }
+}

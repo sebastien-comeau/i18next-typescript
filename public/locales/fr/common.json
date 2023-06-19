@@ -1,0 +1,71 @@
+{
+  "application-name": "Carrefour retraite",
+  "banner": {
+    "alert": "Lieu de test",
+    "description": "Vous ne pouvez pas demander de services ou de prestations par l'intermédiaire de ce site d'essai. Certaines parties du site pourraient ne pas fonctionner et seront modifiées."
+  },
+  "checklist": "Liste de contrôle",
+  "date-select-field": {
+    "day": "Jour",
+    "month": "Mois",
+    "year": "Année"
+  },
+  "footer": {
+    "canada-ca-alt-text": "Symbole du gouvernement du Canada",
+    "contact-us-text": "Communiquez avec nous",
+    "explore-retirement": {
+      "going-from-work-to-retirement": "Transition du monde du travail à la retraite",
+      "main-sources-of-retirement-income": "Principales sources de revenus de retraite",
+      "planning-to-save-for-retirement": "Planifiez pour épargner en vue de la retraite",
+      "rules-of-thumb-for-public-pensions": "Règles générales concernant les pensions publiques",
+      "when-to-start-public-pensions": "Décider quand recevoir sa pension publique"
+    },
+    "explore-retirement-text": "Renseignez-vous sur la retraite",
+    "header": "Carrefour retraite",
+    "links": {
+      "privacy": "Confidentialité",
+      "privacy-url": "https://www.canada.ca/fr/transparence/confidentialite.html",
+      "terms-and-condition": "Avis",
+      "terms-and-condition-url": "https://www.canada.ca/fr/transparence/avis.html"
+    },
+    "menu": {
+      "checklist": "Liste de contrôle",
+      "cpp": "RPC\u00a0: Comment présenter une demande",
+      "cpp-url": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/prestation-rpc/demande.html",
+      "explore-retirement": "Renseignez-vous sur la retraite",
+      "find-service-canada-office": "Trouver un bureau de Service Canada",
+      "find-service-canada-office-url": "https://www.servicecanada.gc.ca/tbsc-fsco/sc-hme.jsp?lang=fra",
+      "general-information-by-telephone": "Renseignements généraux par téléphone",
+      "general-information-by-telephone-url": "https://www.canada.ca/fr/contact/communiquez-avec-1-800-o-canada.html",
+      "msca": "Mon dossier Service Canada",
+      "msca-url": "https://www.canada.ca/fr/emploi-developpement-social/services/mon-dossier.html",
+      "oas": "SV\u00a0: Comment présenter une demande",
+      "oas-url": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/securite-vieillesse/demande.html"
+    },
+    "menu-text": "Menu",
+    "nav-header": "Organisation du gouvernement du Canada",
+    "retirement-stories": {
+      "bonnie": "Bonnie reporte sa pension pour réduire les épargnes dont elle a besoin",
+      "fred": "Fred décide quand commencer à recevoir ses pensions publiques",
+      "keith": "Keith combine son travail avec ses pensions publiques"
+    },
+    "retirement-stories-text": "Histoires réelles de retraite"
+  },
+  "found-errors_one": "L'erreur suivante a été trouvée dans le formulaire\u00a0:",
+  "found-errors_other": "Les {{count}} erreurs suivantes ont été trouvées dans le formulaire\u00a0:",
+  "goc-site": "Canada.ca",
+  "header": {
+    "goc-link": "https://www.canada.ca/fr.html",
+    "skip-to-main": "Passer au contenu principal"
+  },
+  "opens-in-new-tab": "(s'ouvre dans un nouvel onglet)",
+  "required": "(obligatoire)",
+  "table-of-contents": {
+    "aria-label": "Table des matières",
+    "dialog": {
+      "trigger-aria-label": "Ouvrir la table des matières"
+    },
+    "header": "Contenu",
+    "top": "Retour au haut de la page"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "breadcrumbs": {
+    "learn": "Learn"
+  },
+  "filter-tasks_zero": "Filter tasks",
+  "filter-tasks_one": "Filter tasks ({{count}} applied)",
+  "filter-tasks_other": "Filter tasks ({{count}} applied)",
+  "header": "Your retirement checklist",
+  "important-terms": {
+    "cpp": {
+      "definition": "Canada Pension Plan",
+      "header": "CPP:"
+    },
+    "gis": {
+      "definition": "Guaranteed Income Supplement",
+      "header": "GIS:"
+    },
+    "header": "Important terms",
+    "oas": {
+      "definition": "Old Age Security",
+      "header": "OAS:"
+    },
+    "show": "Show important terms"
+  },
+  "links-header": "More resources",
+  "meta": {
+    "description": "Plan for your retirement with a personalized retirement preparedness checklist!"
+  },
+  "print": "Print",
+  "restart-quiz": "Restart quiz",
+  "show-filters": "Show filters",
+  "sr-tag": "Task tag"
+}

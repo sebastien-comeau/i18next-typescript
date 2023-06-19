@@ -1,0 +1,289 @@
+{
+  "breadcrumbs": {
+    "learn": "Apprendre"
+  },
+  "canada-pension-plan-program": {
+    "cpp-post-retirement-benefit": {
+      "adjustments": "Chaque nouveau PAR débutera en janvier de l'année suivante, après le versement des nouvelles cotisations. Les PAR sont ajustés à votre âge. Si vous avez moins de 65 ans, les prestations seront réduites. Si vous avez plus de 65 ans, les nouvelles prestations seront augmentées.",
+      "chart": {
+        "accessibility": {
+          "button-label": "Texte alternatif pour Comment on augmente votre pension de retraite du RPC en utilisant les prestations après-retraite",
+          "caption": "Valeurs présentées sur l'image\u00a0:",
+          "description": {
+            "content": "Le tableau montre l'évolution des paiements mensuels pour les personnes qui travaillent pendant trois ans après avoir commencé à recevoir leur pension de retraite du RPC. Il montre que des PAR sont ajoutés chaque année à vos pensions de retraite du RPC après que vous ayez continué à travailler et à cotiser au régime.",
+            "header": "Description"
+          },
+          "header": [
+            "Années de cotisations au RCP et le début de votre pension",
+            "Retraite du RPC",
+            "PAR 1",
+            "PAR 2",
+            "PAR 3",
+            "Total"
+          ],
+          "rows": [
+            {
+              "data": ["Au début de votre pension", "836\u00a0$", "-", "-", "-", "836\u00a0$"]
+            },
+            {
+              "data": ["1 an,", "836\u00a0$", "29\u00a0$", "-", "-", "865\u00a0$"]
+            },
+            {
+              "data": ["2 ans", "836\u00a0$", "29\u00a0$", "31\u00a0$", "-", "896\u00a0$"]
+            },
+            {
+              "data": ["3 ans", "836\u00a0$", "29\u00a0$", "31\u00a0$", "35\u00a0$", "931\u00a0$"]
+            }
+          ],
+          "values-heading": "Valeurs"
+        },
+        "footer": "Les PAR sont ajoutés chaque année à vos pensions de retraite du RPC, après que vous ayez continué à travailler et à contribuer au régime."
+      },
+      "choices": {
+        "content": "Lorsque vous atteignez l'âge de 65 ans, vous pouvez choisir de cesser de verser des cotisations après la retraite en complètant <a>un formulaire auprès de l'Agence du revenu du Canada (ARC)</a> et en le remettant à votre employeur. Cela vous empêchera de gagner des PAR supplémentaires. Avec votre pension de retraite, les PAR seront ajustés chaque année pour tenir compte de l'inflation.",
+        "link": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/formulaires/cpt30.html"
+      },
+      "differences": {
+        "content": "Pour voir la différence entre reporter sa pension et prendre des PAR, lisez <Link>Keith combine son travail avec ses pensions publiques</Link>.",
+        "link": "/learn/case-studies/keith"
+      },
+      "header": "Qu'est-ce que la Prestation après-retraite (PAR) du RPC?",
+      "helpful-resources": {
+        "cpp": {
+          "content": "RPC Prestation après-retraite\u00a0: Aperçu",
+          "link": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/rpc-apres-retraite.html"
+        },
+        "header": "Ressources utiles",
+        "stop-contributing": {
+          "content": "Choix de cesser de verser des cotisations au Régime de pensions du Canada",
+          "link": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/formulaires/cpt30.html"
+        }
+      },
+      "overview": "Si vous continuez à travailler tout en recevant votre pension de retraite du Régime de pensions du Canada (RPC), et si vous avez moins de 70 ans, vous pouvez continuer à participer au RPC. Vos cotisations au RPC créeront des prestations après-retraite (PAR), qui augmenteront votre revenu de retraite."
+    },
+    "header": "Régime de pensions du Canada (RPC)",
+    "helpful-resources": {
+      "cpp": {
+        "content": "Cotisations au régime de pensions du Canada",
+        "link": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/cotisations.html"
+      },
+      "header": "Ressources utiles",
+      "monthly": {
+        "content": "Régime de pensions du Canada\u00a0: Montants mensuels des pensions et des prestations",
+        "link": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/montants-paiement.html"
+      },
+      "overview": {
+        "content": "Pension de retraite du RPC\u00a0: Aperçu",
+        "link": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc.html"
+      }
+    },
+    "how-much": {
+      "amount": "Le montant de votre pension de retraite du RPC dépend du montant et de la durée de vos cotisations. Le RPC vous permet de choisir le moment où vous souhaitez commencer à recevoir votre pension de retraite, et chaque mois reporter augmente votre montant mensuel. Le montant mensuel le plus élevé que vous puissiez recevoir est atteint à l'âge de 70 ans. Après cet âge, il n'y a plus d'avantage à reporter sa pension. Si vous avez besoin d'argent plus tôt, vous pouvez commencer à recevoir votre pension dès l'âge de 60 ans, mais avec une réduction permanente.",
+      "header": "Quel est le montant de la pension de retraite du RPC que vous pouvez percevoir?",
+      "inflation": "Le montant de la pension de retraite du RPC est augmenté chaque année en janvier pour tenir compte de l'inflation.",
+      "learn-more": {
+        "content": "Pour en savoir plus sur les pensions anticipées et reporter, consultez la page <a>Décider quand recevoir sa pension publique</a>.",
+        "link": "/learn/deciding-when-to-start-your-public-pensions"
+      }
+    },
+    "overview": "La pension de retraite du Régime de pensions du Canada (RPC) qui assure un remplacement de revenu pour les personnes qui ont travaillé ou étaient travailleurs autonomes au Canada. Il s'agit d'une pension mensuelle qui remplace une partie de vos revenus professionnels à la retraite. Le montant de votre pension de retraite du RPC est fonction de vos revenus et de vos contributions au régime.",
+    "qualify": {
+      "header": "Ête-vous admissible à la pension de retraite du RPC?",
+      "pension-credits": {
+        "content": "Il se peut que vous ayez des <a>crédits de pension</a> de votre ancien partenaire suite à un divorce ou une séparation.",
+        "link": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/rpc-partage-credits.html"
+      },
+      "worked-in-canada": "Si vous avez travaillé au Canada et que vos revenus autonome sont supérieurs à 3\u00a0500\u00a0$, vous et votre employeur avez cotisé au RPC. Si vous étiez travailleur indépendant, et que vous avez cotisé à la fois pour l'employeur et pour l'employé. Les cotisations sont basées sur vos revenus, dans la limite d'un plafond annuel."
+    }
+  },
+  "guaranteed-income-supplement": {
+    "collecting": "Vous ne pouvez pas recevoir le SRG tant que vous n'avez pas commencé à recevoir votre pension de la SV.",
+    "header": "Supplément de revenu garanti (SRG)",
+    "helpful-resources": {
+      "estimator": {
+        "content": "Estimateur de prestations de la Sécurité de la vieillesse",
+        "link": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/securite-vieillesse/paiements.html"
+      },
+      "header": "Ressources utiles",
+      "overview": {
+        "content": "Supplément de revenu garanti: Aperçu",
+        "link": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/securite-vieillesse/supplement-revenu-garanti.html"
+      }
+    },
+    "list": {
+      "income-below-maximum": {
+        "content": "avoir un revenu inférieur à <a>un certain montant</a>.",
+        "link": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/securite-vieillesse/supplement-revenu-garanti/montant-prestation.html"
+      },
+      "live-canada": "vivre au Canada;",
+      "receive-pension": "recevoir la pension de la SV;"
+    },
+    "monthly": "Le montant mensuel du SRG dépend de vos revenus de l'année précédente et de votre situation familiale. Si vous êtes célibataire, vous receverez un montant plus élevé.",
+    "overview": "Le SRG est destiné à aider les personnes qui reçoivent la pension de la SV et qui ont de faibles revenus.",
+    "qualify": "Pour bénéficier du SIG, vous devez:"
+  },
+  "header": "Principales sources de revenus de retraite",
+  "key-takeaways": {
+    "cpp-oas": {
+      "description": "L'admissibilité à la pension de la SV dépend de la durée pendant laquelle vous avez vécu au Canada, après l'âge de 18 ans. L'admissibilité à la pension de retraite du RPC/RRQ est basé sur les cotisations que vous et votre employeur avez versées pendant que vous travailliez au Canada.",
+      "header": "La Sécurité de la vieillesse (SV) et le Régime de pensions du Canada (RPC) sont les deux pensions publiques fédérales. La province du Québec dispose de son propre Régime des rentes du Québec (RRQ)."
+    },
+    "cpp-oas-adjusted-for-inflation": {
+      "description": "Lorsque vous consultez les graphiques et les tableaux, n'oubliez pas que vous serez imposé sur la base de votre revenu total. Le montant que vous recevez réellement peut être inférieur.",
+      "header": "Vos pensions seront modifiées pour tenir compte des augmentations de l'inflation. Ces pensions constituent un revenu imposable."
+    },
+    "cpp-oas-available": {
+      "header": "Peu importe la date que vous décidez de prendre vos pensions publiques, elles seront toujours à votre disposition."
+    },
+    "cpp-part-of-plan": {
+      "description": "Vous avez disposez peut-être autres revenu, comme une pension de retraite d'employeur ou une épargne personnelle.",
+      "header": "Les pensions publiques sont destinées à faire partie de votre plan de revenu de retraite."
+    },
+    "header": "Points à retenir",
+    "not-need-to-stop-working": {
+      "description": "Il n'est pas nécessaire d'arrêter de travailler pour recevoir ses pensions publiques.",
+      "header": "Prendre sa retraite et commencer à recevoir ses pensions publiques sont deux choses différentes."
+    }
+  },
+  "learn-more": {
+    "going-from-work-to-retirement": {
+      "description": "Vous pouvez choisir différentes manière d'effectuer une transition du monde du travail à celui de la retraite. Prendre sa retraite du monde du travail et commencer à recevoir ses pensions publiques sont deux choses différentes.",
+      "header": "Transition du monde du travail à la retraite"
+    },
+    "header": "En savoir plus",
+    "income-calculator": {
+      "description": "Le calculatrice du revenu de retraite canadienne vous fournira des informations sur le revenu de retraite. Cela comprend la pension de la Sécurité de la vieillesse (SV) et les prestations de retraite du Régime de pensions du Canada (RPC).",
+      "header": "La calculatrice du revenu de retraite canadienne",
+      "href": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/calculatrice-revenu-retraite.html"
+    },
+    "savings-and-pension": {
+      "description": "Régimes enregistrés de retraite et d'épargne pour les particuliers et les administrateurs de régimes",
+      "header": "Régimes d'épargne et de pension",
+      "href": "https://www.canada.ca/fr/services/impots/regimes-depargne-et-de-pension.html"
+    },
+    "when-to-start": {
+      "description": "La souplesse des pensions publiques vous offre des options de retraite. Découvrez quoi choisir et les éléments à considérer.",
+      "header": "Décider quand recevoir sa pension publique"
+    }
+  },
+  "meta": {
+    "description": "Renseignez-vous sur les différentes sources de revenus de retraite dont vous pourriez bénéficier. Examiner vos sources de revenus et identifier les écarts potentiel."
+  },
+  "old-age-security-program": {
+    "header": "Pension de la sécurité de la vieillesse (SV)",
+    "helpful-resources": {
+      "header": "Ressources utiles",
+      "oas-estimator": {
+        "content": "Montants des paiements de la Sécurité de la vieillesse",
+        "link": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/securite-vieillesse/paiements.html"
+      },
+      "oas-how-much": {
+        "content": "Sécurité de la vieillesse: Le montant que vous pourriez recevoir",
+        "link": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/securite-vieillesse/montant-prestation.html"
+      },
+      "overview": {
+        "content": "Sécurité de la vieillesse: Aperçu",
+        "link": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/securite-vieillesse.html"
+      }
+    },
+    "how-much": {
+      "eligible": "Vous ête admissible à une pension complète de la SV si vous avez vécu au Canada pendant 40 ans, après l'âge de 18 ans.",
+      "header": "Quel montant pouvez-vous recevoir de la pension de la SV?",
+      "smaller": "Vous pouvez recevoir une pension partielle plus modeste si vous avez résidé au Canada pendant au moins 10 ans après l'âge de 18 ans. Une pension partielle est payable à 1/40e de la pension complète pour chaque année de résidence au Canada après l'âge de 18 ans.",
+      "start": {
+        "content": "Vous pouvez commencer à recevoir votre pension de la SV à l'âge de 65 ans, mais vous pouvez également reporter votre pension de la SV jusqu'à l'âge de 70 ans. Après 70 ans, il n'y a plus d'avantage à reporter le premier versement. Pour en savoir plus, lisez <a>Décider quand recevoir sa pension publique</a>.",
+        "link": "/learn/deciding-when-to-start-your-public-pensions"
+      }
+    },
+    "qualify": {
+      "also-eligible": {
+        "content": "Vous pouvez également y avoir droit si vous avez vécu ou travaillé dans un autre pays qui as <a>un accord de sécurité sociale avec le Canada</a>.",
+        "link": "https://www.canada.ca/fr/agence-revenu/services/impot/decisions-concernant-regime-pensions-canada-rpc-assurance-emploi-ae/accords-internationaux-securite-sociale-regime-pensions-canada.html"
+      },
+      "header": "Êtes-vous admissible à la pension de la SV?",
+      "more-details": {
+        "content": "Pour savoir si vous ête admissible à la pension de la SV, consultez la page pour la <a>pension de la SV</a>.",
+        "link": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/securite-vieillesse.html"
+      },
+      "most-people": "La plupart des personnes sont admissible à la pension de la SV si elles ont vécu au Canada pendant plus de 10 ans après l'âge de 18 ans. Vous devez être citoyen canadien ou résident légal pour pouvoir recevoir votre pension de la SV."
+    }
+  },
+  "ongoing-earnings-from-your-job": {
+    "header": "Revenus continus provenant de votre emploi",
+    "overview": "Les Canadiens vivent plus longtemps et beaucoup d'entre eux continuent à travailler pendant leur retraite. Certains ne cessent pas du tout de travailler, mais de nombreux travailleurs âgés choisissent de passer progressivement à la retraite. Ils peuvent réduire leurs heures de travail d'un temps plein à un temps partiel avant de prendre complètement leur retraite. Ils peuvent également commencer une nouvelle carrière ou une nouvelle entreprise. Si ces options vous intéressent, nous vous expliquons comment le fait de travailler plus tard dans la vie peut avoir une incidence sur vos prestations de retraite.",
+    "work-to-retirement": {
+      "content": "Pour en savoir plus sur comment combiner les revenus du travail et de la retraite, consultez la page <a>Transition du monde du travail à la retraite</a>.",
+      "link": "/learn/going-from-work-to-retirement"
+    }
+  },
+  "overview": {
+    "canada-retirement-income-system": {
+      "cpp-qpp": {
+        "content": "Financé par les cotisations employeur/employé et les retours sur investissement",
+        "header": "Régime de pension du Canada (RPC) et Régime de rentes du Québec (RRQ)",
+        "pillar": "Deuxième palier"
+      },
+      "header": "Le système de revenu de retraite du Canada",
+      "important-notice": "<strong>Important</strong>: Les pensions publique ne sont pas destinées à couvrir tous vos besoins financiers à la retraite. La plupart des Canadiens épargneront pendant leurs années de travail ou disposeront d'une autre source de revenus pour avoir suffisamment d'argent à la retraite. Les pensions publiques du Canada vous offrent la souplesse nécessaire pour commencer à les recevoirent au moment qui convient le mieux à votre situation personnelle. Les pensions publiques du Canada sont garantie financièrement. Cela signifie que vous pouvez compter sur elles pour le reste de votre vie, quel que soit le moment où vous décidez de commencer à les recevoirent. Les pensions publiques vous protègent également de l'inflation. Vos pensions augmenteront en fonction de l'augmentation du coût de la vie.",
+      "oas": {
+        "content": "Financé par les recettes fiscales générales",
+        "header": "Programme de la Sécurité de vieillesse",
+        "pillar": "Premier palier"
+      },
+      "private": "Privé",
+      "public": "Publique",
+      "read-case-bonnie": {
+        "content": "Lisez <a>Bonnie reporte sa pension pour réduire les épargnes dont elle a besoin</a> et voyez comment elle utilise différentes sources de revenus pour prendre une retraite à l'aise.",
+        "link": "/learn/case-studies/bonnie"
+      },
+      "three-pillar-system": "Système à trois paliers",
+      "workplace": {
+        "content": "(par ex.\u00a0: régime enregistré d'épargne-retraite, compte d'épargne libre d'impôt, etc.) Financé par les cotisations employeur/employé et les épargnes personnelles",
+        "header": "Régimes de retraite d'employeur et épargne-retraite personnelle",
+        "pillar": "Troisième palier"
+      }
+    },
+    "header": "Aperçu",
+    "learn-more": {
+      "content": "Pour en savoir plus, visitez le <a>site web du RRQ</a>.",
+      "link": "https://www.rrq.gouv.qc.ca/en/programmes/regime_rentes/Pages/regime_rentes.aspx"
+    },
+    "list": {
+      "cpp": "La pension de retraite du RPC/RRQ;",
+      "earnings": "Revenus, si vous continuez à travailler à la retraite;",
+      "oas-and-gis": "La pension de la SV et, si vous avez de faibles revenus à la retraite, le Supplément de revenu garanti (SRG);",
+      "savings-and-investments": "Épargne-retraite et investissements.",
+      "workplace": "Régimes de retraite d'employeur;"
+    },
+    "overview": "La planification de la retraite peut être une tâche difficile, mais il n'est jamais trop tôt ni trop tard pour commencer à y penser. Prendre le temps de planifier peut vous aider à vivre une retraite à l'aise et épanouissante. Une première étape importante de la planification de la retraite consiste à savoir d'où proviendra votre argent. Cela peut vous aider à fixer des objectifs réalisables. Les revenus de la retraite proviennent généralement des sources suivantes\u00a0:",
+    "qpp": "Si vous avez travaillé ou demeuré au Québec, vous avez peut-être droit à la pension de retraite du Régime de rentes du Québec (RRQ) au lieu du RPC. Ces programmes sont très similaires, mais pas identiques."
+  },
+  "personal-retirement-savings": {
+    "disclaimer-notice": "<strong>Clause de non-responsabilité</strong>\u00a0: Ce site Web vise à vous donner des conseils sur le bon moment pour toucher vos pensions de l'État. Nous ne fournissons pas de conseils financiers. Une fois que vous aurez toute l'information dont vous avez besoin, nous vous encourageons à demander l'aide d'un conseiller financier.",
+    "header": "Épargne retraite personnelle",
+    "important-notice": "<strong>Important</strong>\u00a0: En retirant de l'argent d'un REER, ceci est considéré comme un revenu qui peut modifier votre admissibilité au Supplément de revenu garanti (SRG). Cela pourrait modifier votre prochain cycle de paiement qui s'étend de juillet à juin. Le fait de retirer de l'argent d'un CELI n'est pas considéré comme un revenu. Cela ne modifiera pas le montant de votre Supplément de revenu garanti (SRG).",
+    "learn-more": {
+      "content": "Pour en savoir plus sur le montant du revenu dont vous pourriez avoir besoin à la retraite, consultez notre page <a>Planifiez pour épargner en vue de la retraite</a>.",
+      "link": "/learn/planning-to-save-for-retirement"
+    },
+    "overview": {
+      "content": "Pour de nombreuses personnes, il est important d'épargner de l'argent afin de conserver leur mode de vie actuel à la retraite. Si vous ne bénéficiez pas d'un régime de pension de votre employeur, vous devrez peut-être compter davantage sur vos épargnes personnelles. Il existe différentes façons d'épargner pour la retraite, mais les deux plus courantes <rrsp>sont le régime enregistré d'épargne-retraite (REER)</rrsp> et le <tfsa>compte d'épargne libre d'impôt (CELI)</tfsa>. Le gouvernement vous aide à épargner pour la retraite grâce à ces comptes d'épargne en réduisant le montant de l'impôt que vous payez. Si vous avez droit à la pension de la SV et votre <amount>revenu est faible</amount>, vous pouvez également obtenir une aide financière avec le <gis>Supplément de revenu garanti (SRG)</gis>.",
+      "link": {
+        "gis": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/securite-vieillesse/supplement-revenu-garanti/admissibilite.html",
+        "gis-amount": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/securite-vieillesse/supplement-revenu-garanti/montant-prestation.html",
+        "rrsp": "https://www.canada.ca/fr/agence-revenu/services/impot/particuliers/sujets/reer-regimes-connexes/regime-enregistre-epargne-retraite-reer.html",
+        "tfsa": "https://www.canada.ca/fr/agence-revenu/services/formulaires-publications/publications/rc4466/guide-compte-epargne-libre-impot-celi-particuliers.html"
+      }
+    }
+  },
+  "workplace-pension-plans": {
+    "header": "Régimes de retraite d'employeur",
+    "list": {
+      "group-rrsp": "Un régime enregistré d'épargne-retraite collectif (REER collectif);",
+      "group-tfsa": "Un compte d'épargne libre d'impôt collectif (CELI collectif);",
+      "prpp": "Régime de pension agréé commun (RPAC).",
+      "rpp": "Un régime de pension agréé (RPA) de l'employeur;"
+    },
+    "overview": "Les régimes de retraite d'employeur sont différentes des pensions publiques. Ils visent tous deux à vous aider à vivre confortablement à la retraite. Si votre employeur propose un régime de retraite, il est conseillé de se renseigner sur les avantages du régime et d'obtenir un relevé de vos cotisations. Vous trouverez ci-dessous des exemples de régimes de retraite dans le mileu du travail\u00a0:"
+  }
+}

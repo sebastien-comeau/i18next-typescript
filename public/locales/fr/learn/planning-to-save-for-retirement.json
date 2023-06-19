@@ -1,0 +1,57 @@
+{
+  "breadcrumbs": {
+    "learn": "Apprendre"
+  },
+  "changes-with-age": {
+    "disclaimer": "<strong>Clause de non-responsabilité\u00a0:</strong> ce site Web vise à vous donner des conseils sur le bon moment pour toucher vos pensions publiques. Nous ne fournissons pas de conseils financiers. Une fois que vous avez toute l'information dont vous avez besoin, nous vous encourageons à demander l'aide d'un conseiller financier.",
+    "heading": "Comment vos besoins financiers peuvent-ils évoluer avec l'âge",
+    "p1": "Lorsque vous planifiez votre retraite, souvenez-vous que votre budget ne sera pas toujours le même. Si vous optez pour une retraite anticipée, vous aurez peut-être besoin de plus d'argent pour voyager ou faire des activités auxquelles vous n'aviez pas de temps à consacrer pendant vos années de travail. En vieillissant, vos habitudes de dépenses pourraient changer. Vous pourriez dépenser moins d'argent pour faire vos courses ou sortir, et dépenser davantage en soins de santé, en médicaments et en soins à domicile.",
+    "p2": "Vous pourriez aussi devoir payer des frais pour des soins de longue durée, comme des services d'assistance ou des soins dans un foyer de soins infirmiers. Ces choix coûtent cher et vous devriez envisager d'avoir un plan. Vous pourriez économiser à l'avance ou souscrire une assurance pour couvrir les coûts que vous n'aviez pas prévus. Voici quelques options qui pourraient vous convenir, selon votre situation."
+  },
+  "header": "Planifiez pour épargner en vue de la retraite",
+  "how-much": {
+    "a1": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/securite-vieillesse/supplement-revenu-garanti/admissibilite.html",
+    "a2": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/securite-vieillesse/supplement-revenu-garanti.html",
+    "a3": "https://www.canada.ca/fr/services/prestations/pensionspubliques/rpc/calculatrice-revenu-retraite.html",
+    "a4": "https://itools-ioutils.fcac-acfc.gc.ca/BP-PB/planificateur-budgetaire",
+    "heading": "De combien d'argent aurez-vous besoin à la retrait",
+    "p1": "À votre retraite, vos besoins monétaires mensuels seront probablement moins importants qu'aujourd'hui. Vous utiliserez peut-être moins votre voiture et vos dépenses liées au travail, les coûts liés aux enfants et vos frais de logement seront moindres. Comme vous aurez plus de temps libre, vous voudrez peut-être voyager davantage ou faire des rénovations dans votre maison. Les projets de retraite de chacun sont différents; il est donc important de réfléchir à ce que vous voulez faire et de planifier en conséquence. Vous devez tenir compte des facteurs comme votre état de santé, l'endroit où vous voulez vivre, l'ampleur de vos économies et le montant des pensions que vous toucherez. En général, vous n'aurez pas besoin d'autant d'argent pour conserver votre mode de vie. De nombreux planificateurs financiers sont d'avis qu'une fois à la retraite, il vous suffira de toucher de 60 à 70\u00a0% de votre revenu actuel pour maintenir votre mode de vie. Toutefois, cette règle ne s'applique pas pour tout le monde. Si votre <a1>revenu est faible</a1>, vous pourriez avoir besoin du même montant d'argent à votre retraite qu'à l'heure actuelle pour subvenir à tous vos besoins de base. <a2>Le Supplément de revenu garanti (SRG)</a2> est une importante source de revenus pour les retraités à faible revenu. Les personnes dont le revenu est plus élevé n'auront peut-être besoin que de 50 à 60\u00a0% de leur revenu actuel à la retraite. Vous devez réfléchir à votre situation personnelle lorsque vous planifiez votre retraite afin de pouvoir économiser le bon montant.",
+    "p2": "Vous pouvez modéliser votre revenu de retraite futur provenant de différentes sources à l'aide de la <a3>Calculatrice du revenu de retraite canadienne</a3>.",
+    "p3": "Apprenez-en davantage sur le <a4>Planificateur budgétaire de l'ACFC</a4>."
+  },
+  "key-takeaways": {
+    "heading": "Points à retenir",
+    "li1": "Lorsque vous planifiez votre retraite, tenez compte du montant dont vous aurez besoin en fonction de votre situation personnelle.",
+    "li2": "Votre santé, votre revenu et ce que vous voulez faire à votre retraite auront une incidence sur votre budget.",
+    "li3": "Vos besoins financiers et votre situation peuvent changer avec l'âge.",
+    "li4": "Il est important de revoir votre plan financier pour le modifier au besoin."
+  },
+  "learn-more": {
+    "budget-planner": {
+      "description": "Le Planificateur budgétaire vous aide à créer un budget personnalisé en trois étapes simples.",
+      "header": "Planificateur budgétaire - Agence de la consommation en matière financière du Canada",
+      "href": "https://itools-ioutils.fcac-acfc.gc.ca/BP-PB/planificateur-budgetaire"
+    },
+    "going-from-work-to-retirement": {
+      "description": "Vous pouvez choisir différentes manière d'effectuer une transition du monde du travail a celui de la retraite. Prendre sa retraite du monde du travail et commencer a recevoir ses pensions publiques sont deux choses différentes.",
+      "header": "Transition du monde du travail à la retraite"
+    },
+    "heading": "En savoir plus",
+    "main-sources-of-retirment-income": {
+      "description": "Renseignez-vous sur les différentes sources de revenus de retraite dont vous pourriez bénéficier. Examiner vos sources de revenus et identifier les écarts potentiel.",
+      "header": "Principales sources de revenu de retraite"
+    },
+    "saving-for-retirement": {
+      "description": "Quand, pourquoi et comment commencer à épargner en vue de votre retraite et conseils pour vous aider à équilibrer vos priorités financières.",
+      "header": "Épargne-retraite",
+      "href": "https://www.canada.ca/fr/agence-consommation-matiere-financiere/services/planification-retraite/economiser-pour-retraite.html"
+    }
+  },
+  "meta": {
+    "description": "Découvrez comment vos besoins en ce qui concerne vos revenus vont changer. Vos besoins financiers et vos préoccupations vont aussi changer."
+  },
+  "overview": {
+    "heading": "Aperçu",
+    "p": "La planification de la retraite peut vous sembler stressante, mais cela est nécessaire pour vous assurer d'avoir un avenir à l'aise et sûr qui correspond à vos objectifs. Avec autant de choix, il peut être difficile de ne pas savoir par où commencer pour tirer le meilleur parti de vos épargnes. Les sections ci-dessous visent à vous informer des étapes à suivre tout au long de cet important processus."
+  }
+}

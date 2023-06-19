@@ -1,0 +1,33 @@
+{
+  "breadcrumbs": {
+    "learn": "Apprendre"
+  },
+  "filter-tasks_zero": "Sélection des tâches",
+  "filter-tasks_one": "Sélection des tâches ({{count}} sélectionnée)",
+  "filter-tasks_other": "Sélection des tâches ({{count}} sélectionnées)",
+  "header": "Liste de contrôle pour la retraite",
+  "important-terms": {
+    "cpp": {
+      "definition": "Régime de pensions du Canada",
+      "header": "RPC\u00a0:"
+    },
+    "gis": {
+      "definition": "Supplément de revenu garanti",
+      "header": "SRG\u00a0:"
+    },
+    "header": "Termes importants",
+    "oas": {
+      "definition": "Sécurité de vieillesse",
+      "header": "SV\u00a0:"
+    },
+    "show": "Afficher les termes importants"
+  },
+  "links-header": "Ressources supplémentaires",
+  "meta": {
+    "description": "Planifiez votre retraite avec une liste de contrôle personnalisée pour mieux vous préparez à la retraite!"
+  },
+  "print": "Imprimer",
+  "restart-quiz": "Relancez ce questionnaire",
+  "show-filters": "Afficher les filtres",
+  "sr-tag": "L'étiquette de tâche"
+}
